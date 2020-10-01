@@ -1,0 +1,37 @@
+[0826/015719.831:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0826/020719.833:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0826/020719.833:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0826/021219.832:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0826/022719.838:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0826/024219.845:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0826/041814.119:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0826/214126.645:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0826/215626.674:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0826/221126.676:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0826/222628.490:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0826/224128.493:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0826/225216.626:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0826/225216.532:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0826/225216.532:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0826/225216.798:ERROR:exception_snapshot_win.cc(98)] thread ID 6716 not found in process
+[0826/225216.532:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0826/225216.532:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0826/225216.532:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0826/225216.532:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0826/225216.532:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0826/225216.532:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0826/225216.532:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0826/225216.798:ERROR:exception_snapshot_win.cc(98)] thread ID 10160 not found in process
+[0826/225216.798:ERROR:exception_snapshot_win.cc(98)] thread ID 1004 not found in process
+[0826/225216.798:ERROR:exception_snapshot_win.cc(98)] thread ID 3952 not found in process
+[0826/225216.798:ERROR:exception_snapshot_win.cc(98)] thread ID 16952 not found in process
+[0826/225216.798:ERROR:exception_snapshot_win.cc(98)] thread ID 14832 not found in process
+[0826/225216.798:ERROR:exception_snapshot_win.cc(98)] thread ID 12692 not found in process
+[0826/225216.798:ERROR:exception_snapshot_win.cc(98)] thread ID 18644 not found in process
+[0826/225216.798:ERROR:exception_snapshot_win.cc(98)] thread ID 8824 not found in process
+[0826/225216.798:ERROR:exception_snapshot_win.cc(98)] thread ID 6500 not found in process
+[0827/214128.363:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0904/223719.773:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0912/000208.823:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0912/222256.691:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[1001/124443.360:ERROR:crash_report_database_win.cc(469)] failed to stat report
